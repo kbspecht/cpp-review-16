@@ -1,1 +1,3 @@
 # cpp-review-16
+
+Container holds multiple unnamed objects (elements, ex. string holds multiple character elements), each container provides method of accessing objects, length/size is number of elements in container, ex. carton contains eggs, containers generally can either be created/access elements/insert or remove elements/get number of elements (or other operations), generally homogeneous (elements have same type, heterogeneous if different types), C++ has containers library, array is container that stores sequence of values contiguously (each element placed in adjacent memory location without gaps), C++ containers include C-style arrays/vectors/std::array (replacement for C-style arrays in C++11)
